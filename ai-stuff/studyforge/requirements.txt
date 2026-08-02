@@ -1,0 +1,2 @@
+# StudyForge — keep dependencies light (16GB RAM friendly)
+httpx>=0.27.0
